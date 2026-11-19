@@ -1,5 +1,9 @@
-afk_runner.log
-afk.out
+.venv/
 __pycache__/
 *.pyc
-.venv/
+*.egg-info/
+build/
+dist/
+afk_runner.log
+afk.out
+.pytest_cache/
